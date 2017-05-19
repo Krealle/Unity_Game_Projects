@@ -1,0 +1,22 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+
+            "path": "./Assets/",
+
+            "file_exclude_patterns":
+            [
+                "*.unity", "*.guiskin", "*.dll", "*.meta", "*.prefab", "*.anim", "*.physicMaterial", "*.flare", "*.cubemap", "*.font", "*.fontsettings", "*.renderTexture", "*.mat"
+            ],
+
+            "folder_exclude_patterns":
+            [
+                "None"
+            ],
+        }
+    ],
+
+    "solution_file": "./Red et Liv.sln"
+}

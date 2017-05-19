@@ -1,0 +1,1041 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dialog",
+				"dialogSpeaker	AudioSource"
+			],
+			[
+				"dia",
+				"dialogTimer	Slider"
+			],
+			[
+				"Camera",
+				"CameraControl	CameraControl"
+			],
+			[
+				"log",
+				"Log(object message)	void"
+			],
+			[
+				"Unity",
+				"UnityEngine	UnityEngine"
+			],
+			[
+				"time",
+				"Time	Time"
+			],
+			[
+				"Dialog",
+				"Dialogs	Dialogs"
+			],
+			[
+				"get",
+				"GetComponents(List<T> results)	void"
+			],
+			[
+				"Dialo",
+				"Dialogs	Dialogs"
+			],
+			[
+				"camer",
+				"CameraControl	CameraControl"
+			],
+			[
+				"cama",
+				"CameraControl	CameraControl"
+			],
+			[
+				"came",
+				"CameraControl	CameraControl"
+			],
+			[
+				"cam",
+				"CameraControl	CameraControl"
+			],
+			[
+				"Camer",
+				"CameraControl	CameraControl"
+			],
+			[
+				"getcom",
+				"GetComponent<T>()	T"
+			],
+			[
+				"dialo",
+				"dialogManager	DialogBase"
+			],
+			[
+				"cmaer",
+				"cameras	GameObject[]"
+			],
+			[
+				"phone",
+				"phoneCanvas	Canvas"
+			],
+			[
+				"new",
+				"newDialog	DialogBase"
+			],
+			[
+				"button",
+				"buttonPressed"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"backgorun",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"go",
+				"goodOrNot"
+			],
+			[
+				"market",
+				"marketInt"
+			],
+			[
+				"tjen",
+				"tjen80"
+			],
+			[
+				"keyP",
+				"keyProfit80"
+			],
+			[
+				"profit",
+				"profit80"
+			],
+			[
+				"in",
+				"innerHTML"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Assets/Scripts/Dialogs.cs",
+			"settings":
+			{
+				"buffer_size": 6286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Vollmer/Dropbox/Trading/Smurf.txt",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Games/Grand Theft Auto V/scripts/addins/VES_Game_Setting.lua",
+			"settings":
+			{
+				"buffer_size": 7226,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/SteamLibrary/SteamApps/common/Dungeon Defenders 2/DunDef2/Engine/Config/BaseInput.ini",
+			"settings":
+			{
+				"buffer_size": 16702,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/SteamLibrary/SteamApps/common/Dungeon Defenders 2/DunDef2/Engine/Config/BaseEngine.ini",
+			"settings":
+			{
+				"buffer_size": 30448,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/UserConfig/Config_(UnknownCheats).lua",
+			"settings":
+			{
+				"buffer_size": 20061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/SteamLibrary/SteamApps/common/PAYDAY 2/README.txt",
+			"settings":
+			{
+				"buffer_size": 16440,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Config:\n OutputMode: 1\n OutputFile: captains.log\n PrintOffsets: false\n ExtraCols: 20\n ExtraRows: 10\n FirstRunScript: trainer\\assets\\first.lua\nKeyBindings:\n #KEYBOARD\n - [VK_F1, trainer\\F1 - CHEAT LIST.luac]\n - [VK_F2, trainer\\F2 - GODMODE TOGGLE.lua]\n - [VK_F3, trainer\\F3 - WEAPON MENU.lua]\n - [VK_F4, trainer\\F4 - DEXTERITY MENU.lua]\n - [VK_F5, trainer\\F5 - INFINITE ALL.lua]\n - [VK_F6, trainer\\F6 - EVIL MASTERMIND.lua]\n - [VK_F7, trainer\\F7 - GHOST RECON.lua]\n - [VK_F8, trainer\\F8 - MONEY MENU.lua]\n #- [VK_F9, trainer\\F9 - SKILL MENU.lua]\n - [VK_F10, trainer\\F10 - LEVEL MENU.lua]\n - [VK_F11, trainer\\F11 - INVENTORY MENU.lua]\n - [0x5A, trainer\\Z - AMMO AND HEALTH REFILL.lua]\n - [0x58, trainer\\X - XRAY VISION TOGGLE.lua]\n - [0x31, trainer\\1 - AMMO BAG.lua]\n - [0x32, trainer\\2 - MEDKIT.lua]\n - [0x34, trainer\\assets\\publicx.lua] # - PUBLIC X-RAY TOGGLE\n - [0x36, trainer\\6 - SENTRY.lua]\n - [0x37, trainer\\7 - TRIPMINE.lua]\n - [0x38, trainer\\8 - ECM.lua]\n - [0x39, trainer\\assets\\pocohud.luac]\n - [0x30, trainer\\assets\\pocomap.luac]\n - [VK_OEM_102, trainer\\assets\\pushstack.lua] # <\\> - DOUBLETAP TO DROP ALL BAGS\n - [VK_OEM_1, trainer\\assets\\pushstackup.lua] # ¨^¨ - CYCLE BAGTYPE UP\n - [VK_OEM_2, trainer\\assets\\pushstackdown.lua] # '*' - CYCLE BAGTYPE DOWN\n #- [VK_OEM_3, trainer\\assets\\aaa.lua] # æÆ\n #- [VK_OEM_4, trainer\\assets\\aaa.lua] #´`\n #- [VK_OEM_5, trainer\\assets\\aaa.lua] # ½§\n #- [VK_OEM_6, trainer\\assets\\aaa.lua] # åÅ\n #- [VK_OEM_7, trainer\\assets\\aaa.lua] # øØ\n #- [VK_OEM_8, trainer\\assets\\aaa.lua] # UNKNOWN KEY\n - [VK_PAUSE, \"\"] # - PAUSE/BREAK - HOOK ON/OFF\n - [VK_CAPITAL, \"*\"] # - CAPSLOCK - RERUN LAST SCRIPT\n #ARROWKEYS\n #- [VK_UP, trainer\\secret\\secret.gYZXtQJw2a.luac]\n #- [VK_DOWN, trainer\\secret\\secret.s22Mt23a.luac]\n #- [VK_LEFT, trainer\\secret\\secret.ust2wMJv4n5XAGJQbXa.luac]\n #- [VK_RIGHT, trainer\\secret\\secret.xsJXhgIwSKi.luac]\n #EXTRA KEYS\n - [VK_INSERT, trainer\\INS - SPAWN MENU.lua] # - THE SPAWN MENU WITH BODYGUARDS/HOSTILES\n - [VK_DELETE, trainer\\DEL - OVERKILL.lua] # - ALL CHEATS ACTIVATED\n - [VK_HOME, trainer\\HOME - NORMALIZER.lua] # - REMOVE ACTIVE CHEATS\n - [VK_END, trainer\\END - INSTANT WIN.lua] # - INSTANT WIN MISSION\n #MOUSE ACTION SETUP\n - [VK_MBUTTON, trainer\\MMB - DAT SLOWMO.lua] # - SLOWMOTION AKA BULLETTIME\n - [VK_XBUTTON2, trainer\\MB1 - HOLY HANDGRENADE.lua] # - BUFFED HANDGRENADES\n - [VK_XBUTTON1, trainer\\MB2 - PENETRATIVE TELEPORT.lua] # - TELEPORT TO XHAIR\n #MOUSE SUPERMAN SETUP\n #- [VK_MBUTTON, trainer\\MMB - HOVER.lua] # - LEFT IN FOR NOSTALGIA \n #- [VK_XBUTTON2, trainer\\MB1 - ASCEND.lua] # - LEFT IN FOR NOSTALGIA\n #- [VK_XBUTTON1, trainer\\MB2 - DESCEND.lua] # - LEFT IN FOR NOSTALGIA\n #MOUSE LEGO SETUP \n #- [VK_MBUTTON, trainer\\MMB - PENETRATIVE TELEPORT.lua] # - LEFT IN FOR NOSTALGIA\n #- [VK_XBUTTON2, trainer\\MB1 - LEGO.lua] # - LEFT IN FOR NOSTALGIA\n #- [VK_XBUTTON1, trainer\\MB2 - UNLEGO.lua] # - LEFT IN FOR NOSTALGIA\n #NUMERIC KEYPAD\n - [VK_NUMPAD0, trainer\\NUM0 - JOB MENU.lua] # - THE JOB MENU\n - [VK_NUMPAD1, trainer\\assets\\mousemenu.lua] # - MOUSE/GAMEMODE SETUP MENU\n - [VK_NUMPAD2, trainer\\assets\\freestyler.lua] # - DANCING COPS USE WITH VOODOOFY\n - [VK_NUMPAD3, trainer\\assets\\aimbot.lua] # - LOOK STRAIGHT DOWN TO CALIBRATE AIMBOT PROPER\n - [VK_NUMPAD4, trainer\\NUM4 - TROLL.luac] # - TROLL MENU\n - [VK_NUMPAD5, trainer\\assets\\Bender.luac] \n #- [VK_NUMPAD6, trainer\\assets\\ ]\n - [VK_NUMPAD7, trainer\\NUM7 - TEST.lua] # USER TEST SCRIPT\n - [VK_NUMPAD8, trainer\\NUM8 - TEST.lua] # USER TEST SCRIPT 2 CHOPPI PRELOADED\n - [VK_NUMPAD9, trainer\\NUM9 - TEST.lua] # USER TEST SCRIPT 3 DRIVER PRELOADED\n - [VK_DECIMAL, trainer\\assets\\configmenu.lua] # - USER CONFIGURATION \n - [VK_ADD, trainer\\NUMPLUS - MOD MENU.lua] # - ALL MODS GO HERE\n - [VK_SUBTRACT, trainer\\NUMMINUS - CHARACTER MENU.lua] # - CHARACTER MENU\nPersistScripts:\n - [PiratePerfectionInitialized, trainer\\assets\\_pirateperfectionInit.luac] # - PP INIT\n - [ConfigScriptInitialized, trainer\\assets\\_userconfig.lua] # - USER CONFIGURATION\n - [AutoOnCheatsPreGame, trainer\\assets\\_autooncheatspregame.lua] # - AUTOCHEATS IN MAIN MENU\n - [AutoOnCheatsInGame, trainer\\assets\\_autooncheatsingame.lua] # - AUTOCHEATS INGAME\n - [persistentSPOOF, trainer\\assets\\_spoof.lua] # - SPOOF/FAKE NAME STORED HERE\n - [persistentDLC, trainer\\assets\\_dlc.lua] # - UNLOCKS ALL DLCS\n #- [CarryStackerSetupDone, trainer\\assets\\carrystacker.lua] # - CARRY MULTIPLE BAGS MOD\n #- [StealthFixer, trainer\\assets\\_stealthfixer.lua] # - OLDSCHOOL STEALTH MOD\nPostRequireScripts:\n - ['lib/entry', trainer\\assets\\__globalrequires.lua]\n - ['lib/managers/mission/elementareatrigger', trainer\\assets\\__globalrequires.lua]\n - ['lib/units/props/texttemplatebase', dev\\stockticker.lua] #- CUSTOM BIGBANK TICKERS",
+			"file": "/D/SteamLibrary/SteamApps/common/PAYDAY 2/PD2Hook.yml",
+			"file_size": 4816,
+			"file_write_time": 130489562220000000,
+			"settings":
+			{
+				"buffer_size": 4727,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "1: Smukt spillet - hurtigere rotate til CT\n2: Godt holdt - bedre kommunikation/rotate til bombe\n3: God tidligt push for info - for passivt senere hen\n4: Eco x_x\n5: ECO - overextender\n6: De går efter et execute med det samme - vi har ik nok info; misser skud\n7: Anti-Eco: Vi vinder den super smukt\n8: Tidlig push i aps, smart at falde - overextender mod under, giver fordel væk; ingen hjælp fra window\n9: De går efter execute med det samme - vi har ik nok info, igen - vi spiller dårligt sammen i retake.\n10: Eco: misser skud på gratis frag.\n11: Vi finder tidlige frags og tvinger dem til at execute mod A - spiller aggresivt og det virker.\n12: Spiller agresivt mod slope får frag - hjælp er alt for langt væk/langsomt.\n13: Anti-Eco: lukker deres B rush ned meget elegant.\n14: Langsom rotate - gode tidlige frags.\n15: God tidlig push for info - B hold ikke stærkt nok/rotate for langsom\n16: God start - kortet bliver ikke pushet sammen.\n17: Anti-Eco: Godt push ind på midten - aps blev ikke tjekket ordenligt/crossfire i kitchen var dårligt.\n18: Anti-Eco: Fin runde.\n19: Solid mid kontrol i starten - Overextender mod con uden hjælp/ikke nogen refrags\n20: God info om under push - Thor choker smoke på B/Solid runde\n21: Anti-Eco: Ingen refrags/mangel på sammenspil - Super dårlig runde.\n22: Taber mid kontrol tidligt - Dårligt push mod A/mangel på refrags/sammenspil\n23: Eco: x_x\n24: Fint execute mod A-site - taber til retake\n25: Super solidt execute mod A-site - taber til retake/dårligt hold fra os\n26: Super solidt execute mod A-site - taber næsten til retake/vinder 1v2\n27: God entry - taber fordel/dårligt push ind i window\n28: Anti-Eco: Solid runde\n29: God runde\n30: Fuldt på døv",
+			"settings":
+			{
+				"buffer_size": 1685,
+				"line_ending": "Windows",
+				"name": "1: Smukt spillet - hurtigere rotate til CT"
+			}
+		},
+		{
+			"file": "/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg",
+			"settings":
+			{
+				"buffer_size": 7886,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Vollmer/Dropbox/CSGOGoingPro/NaCl/Teamspeak/Icons/READ ME.txt",
+			"settings":
+			{
+				"buffer_size": 352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Assets/Scripts/DialogBase.cs",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Assets/Scripts/MonitorButton.cs",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Assets/Scripts/PhoneButton.cs",
+			"settings":
+			{
+				"buffer_size": 1614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Assets/Scripts/CameraControl.cs",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control:",
+		"selected_items":
+		[
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/2.G/Teknologi/Red et Liv/Red et Liv/Assets",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/2.G/Teknologi/Red et Liv/Red et Liv/Assets/Assets",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/2.G/Teknologi/Red et Liv/Red et Liv/Assets/Assets/Scripts",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/2.G/Teknologi/Red et Liv/Red et Liv/Assets/Editor"
+	],
+	"file_history":
+	[
+		"/C/Users/Vollmer/Desktop/Mainfolder/scripts/LowLifeCrime.ini",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zOC6B2.tmp/Read Me.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zO15E9.tmp/READ ME.txt",
+		"/C/Users/Vollmer/Desktop/GTA 5 FPS booster/documentation/help.txt",
+		"/D/Games/Grand Theft Auto V/scripts/HotCoffee.ini",
+		"/C/Users/Vollmer/Desktop/lel.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zO7B57.tmp/Q and A.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zO7173.tmp/changelog.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zO631A.tmp/commandline.txt",
+		"/C/Users/Vollmer/Desktop/Mainfolder/readme.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zOF111.tmp/Readme.txt",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/UserConfig/Config_(UnknownCheats).lua",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/Main/KeyBinds/Keyboard/XRAY VISION TOGGLE.lua",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/Main/PostRequire/Assets/XPMultiplier.lua",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/Main/PostRequire/Assets/KeyBindConfig.lua",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/Main/PostRequire/Assets/AntiCheat.lua",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/UserConfig/SkillConfig.lua",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/Main/KeyBinds/Menu/F6 - MONEY MENU.lua",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/Main/KeyBinds/Menu/F1 - PLAYER MENU.lua",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zO2529.tmp/README.txt",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/README.txt",
+		"/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/UserConfig/UpgradeTweakConfig.lua",
+		"/C/Users/Vollmer/AppData/Local/Temp/fz3temp-1/server.cfg",
+		"/C/Users/Vollmer/AppData/Local/Temp/fz3temp-1/_2016-02-22-1926-6987-de_dust2.log",
+		"/C/Users/Vollmer/AppData/Local/Google/Chrome/User Data/Default/Extensions/pnmifmjgoddkicidifnaenlagjcofomn/2.1.5_0/manifest.json",
+		"/C/Users/Vollmer/AppData/Local/Google/Chrome/User Data/Default/Extensions/pnmifmjgoddkicidifnaenlagjcofomn/2.1.5_0/src/core/item.js",
+		"/C/Users/Vollmer/Downloads/csgo-Double-script.txt",
+		"/C/Users/Vollmer/Dropbox/Trading/Smurf.txt",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/2.G/Teknologi/Red et Liv/Red et Liv/",
+		"/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/crosshair4.cfg",
+		"/C/Users/Vollmer/Dropbox/Trading/DoubleIsRigged.txt",
+		"/D/Games/Warcraft III 1.26 -IceBlitz/CustomKeyInfo.txt",
+		"/D/Games/Warcraft III Reign of Chaos & The Frozen Throne/CustomKeyInfo.txt",
+		"/D/Games/Warcraft III Reign of Chaos & The Frozen Throne/Patch.txt",
+		"/D/Torrents/Games/Warcraft III Reign of Chaos & The Frozen Thron/ReadMe.txt",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/2.G/Teknologi/Red et Liv/Red et Liv/Assets/Assets/Scripts/dialog.cs",
+		"/C/Users/Vollmer/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/C/Users/Vollmer/AppData/Roaming/Sublime Text 3/Packages/User/UnityC#.sublime-settings",
+		"/C/Users/Vollmer/Downloads/SublimeSync.cs",
+		"/C/Users/Vollmer/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/index.php",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/CSS/Main.css",
+		"/C/Users/Vollmer/AppData/Roaming/TS3Client/chats/aktqbnVHNVJ6MEk2NFh4dkhGajI0WUVWaFRBPQ==/server.txt",
+		"/C/Users/Vollmer/AppData/Roaming/TS3Client/chats/aktqbnVHNVJ6MEk2NFh4dkhGajI0WUVWaFRBPQ==/channel.txt",
+		"/C/Users/Vollmer/AppData/Roaming/TS3Client/logs/ts3client_2016-01-21__15_04_16.927035.log",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/CSGO.php",
+		"/C/Users/Vollmer/Desktop/Mobilepay nummer",
+		"/C/Users/Vollmer/Dropbox/Trading/Cookie Recipie.txt",
+		"/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg",
+		"/C/Users/Vollmer/Dropbox/CSGOGoingPro/NaCl/Game Plan.txt",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/About.php",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/PHP/Footer.php",
+		"/C/Users/Vollmer/Desktop/csgo_c4timer/resources/default_app/index.html",
+		"/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/gamestate_integration_c4timer.cfg",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zOCB6A.tmp/readme.txt",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/Videos.php",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/Login.php",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/JScripts/CSGO.js",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/PHP/Header.php",
+		"/C/Users/Vollmer/Dropbox/Programming/Website/kristianvollmer.dk/PHP/menu.php",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/Price 2 Key/popup.html",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/Price 2 Key/manifest.json",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/Price 2 Key/popup.js",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/pls/market.html",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/pls/obj.js",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/pls/settings.js",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/pls/options.html",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/pls/manifest.json",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/pls/_metadata/verified_contents.json",
+		"/C/Users/Vollmer/Dropbox/Programming/Chrome Extention/pls/jquery.js",
+		"/C/Users/Vollmer/Downloads/Esport (1).txt",
+		"/C/Users/Vollmer/Downloads/Esport.txt",
+		"/C/Users/Vollmer/Dropbox/lolconfig.cfg",
+		"/C/Users/Vollmer/Documents/my games/Fallout4/Fallout4Prefs.ini",
+		"/C/Users/Vollmer/Documents/my games/Fallout4/Fallout4.ini",
+		"/C/Users/Vollmer/Dropbox/Trading/lol.txt",
+		"/C/Users/Vollmer/Documents/my games/Age of Mythology/Users/LastProfile.txt",
+		"/D/Torrents/Heroes WoW Client with Patch 2.0/Data/enUS/realmlist.wtf",
+		"/C/Users/Vollmer/Documents/my games/Age of Mythology/startup/persistent.cfg",
+		"/D/Torrents/Games/Age Of Mythology Complete/READ ME Age Of Mythology General Guide.txt",
+		"/D/Torrents/Games/Age Of Mythology Complete/Age of Mythology CD-Key.txt",
+		"/D/Torrents/Heroes WoW Client with Patch 2.0/WTF/Config.wtf",
+		"/D/Torrents/Heroes WoW Client with Patch 2.0/Interface/AddOns/PitBull4/Options/load.xml",
+		"/D/Torrents/Games/Age Of Mythology Complete/Age of Mythology - The Titans CD-Key.txt",
+		"/C/Users/Vollmer/Desktop/test.xml",
+		"/C/Users/Vollmer/Pictures/iCloud Photos/Uploads/desktop.ini",
+		"/C/GeDoSaTo/README.txt",
+		"/C/Users/Vollmer/Downloads/iCamp47 2015.zip.txt",
+		"/C/Users/Vollmer/Dropbox/yids.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/fz3temp-1/eslgotv.cfg",
+		"/D/Games/Fallout 4/Fallout 4/steam_api.ini",
+		"/D/Games/Fallout 4/Fallout 4/Fallout4_Default.ini",
+		"/C/Users/Vollmer/AppData/Local/Temp/fz3temp-1/funcommands.cfg",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/BrickShooter/Assets/Assets/Script/Shooting.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/BrickShooter/Assets/Assets/Script/TnT.cs",
+		"/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/resource/csgo_english.txt",
+		"/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/resource/csgo_vollmer.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zOB301.tmp/gamemaps_com.txt",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Workshops/Spil2/Assets/Package/Scripts/Checkpoint.cs",
+		"/D/Torrents/Games/Besiege.v0.11/README.txt",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Workshops/Spil2/Assets/Package/Scripts/Character.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/BrickShooter/Assets/Assets/Script/BulletBehaviour.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Workshops/Spil2/Assets/Package/Scripts/CameraFade.cs.meta",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/Unity/Assets/Assets/Scripts/SpawnEnemy.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/Unity/Assets/Assets/Scripts/SimpleAI.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/Unity/Assets/Assets/Scripts/FPSGun.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/Unity/Assets/Assets/Scripts/GUIScript.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/2DGameTest/Assets/Assets/Scripts/GG.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/2DGameTest/Assets/Assets/Scripts/GUIScript.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/2DGameTest/Assets/Assets/Scripts/PlayerMovement.cs",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/2DGameTest/Assets/Assets/Scripts/GG.cs.meta",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/2DGameTest/Assets/Assets/Scripts/GUIScript.cs.meta",
+		"/C/Users/Vollmer/Dropbox/Skole/GameIT/1.G/Teknologi/2DGameTest/Assets/Assets/Scripts/PlayerMovement.cs.meta",
+		"/D/Torrents/Other/Adobe photoshop CS6 13.0 [Extended x86+x64] (2012) PC/ReadMe.txt",
+		"/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/resource/flash/fontmapping.cfg",
+		"/D/Torrents/Other/Microsoft Windows 10 Home and Pro x64 Clean ISO/ReadMe.txt",
+		"/D/New folder/yolo.txt",
+		"/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/recoil.cfg",
+		"/D/Torrents/Other/Microsoft Office Professional Plus 2013/Just click setup.exe.txt",
+		"/C/Users/Vollmer/AppData/Local/Temp/7zO5132.tmp/fontmapping.cfg"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xp",
+			"f",
+			"f8",
+			";\n",
+			"class=\"headline\"",
+			"procenter",
+			"Saelg",
+			"80",
+			"tjen",
+			"profit",
+			"Profit",
+			"profit",
+			"80",
+			"75",
+			"80",
+			"75",
+			"profit60",
+			"75",
+			"80",
+			"profit",
+			"key",
+			"fdir",
+			"control",
+			"\"SFUIHUD_playerid_sameteam\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Assets/Scripts/Dialogs.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1861,1862": "Unexpected symbol `)''"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Vollmer/Dropbox/Trading/Smurf.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Games/Grand Theft Auto V/scripts/addins/VES_Game_Setting.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2663,
+								2667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/SteamLibrary/SteamApps/common/Dungeon Defenders 2/DunDef2/Engine/Config/BaseInput.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/SteamLibrary/SteamApps/common/Dungeon Defenders 2/DunDef2/Engine/Config/BaseEngine.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21999,
+								21999
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10973.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/SteamLibrary/SteamApps/common/PAYDAY 2/MVP/UserConfig/Config_(UnknownCheats).lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8385,
+								8385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2137.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/SteamLibrary/SteamApps/common/PAYDAY 2/README.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/SteamLibrary/SteamApps/common/PAYDAY 2/PD2Hook.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1685,
+								1685
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1: Smukt spillet - hurtigere rotate til CT",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								599,
+								599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Vollmer/Dropbox/CSGOGoingPro/NaCl/Teamspeak/Icons/READ ME.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Assets/Assets/Scripts/DialogBase.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Assets/Assets/Scripts/MonitorButton.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"109,113": "Unexpected symbol `void'' in class, struct, or interface member declaration"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Assets/Assets/Scripts/PhoneButton.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1470,
+								1470
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"814,815": "Unexpected symbol `)''"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Assets/Assets/Scripts/CameraControl.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"169,173": "Unexpected symbol `void'' in class, struct, or interface member declaration"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "Red et Liv.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 1f87d419fca40e041903632a3b5d9654
+timeCreated: 1445337352
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Untitled-2 - Copy_0
+    21300002: Untitled-2 - Copy_1
+    21300004: Untitled-2 - Copy_2
+    21300006: Untitled-2 - Copy_3
+    21300008: Untitled-2 - Copy_4
+    21300010: Untitled-2 - Copy_5
+    21300012: Untitled-2 - Copy_6
+    21300014: Untitled-2 - Copy_7
+    21300016: Untitled-2 - Copy_8
+    21300018: Untitled-2 - Copy_9
+    21300020: Untitled-2 - Copy_10
+    21300022: Untitled-2 - Copy_11
+    21300024: Untitled-2 - Copy_12
+    21300026: Untitled-2 - Copy_13
+    21300028: Untitled-2 - Copy_14
+    21300030: Untitled-2 - Copy_15
+    21300032: Untitled-2 - Copy_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Untitled-2 - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 523
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .215658113, y: .859450519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 521
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .385552973, y: .869044125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 521
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .458327651, y: .893135488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 523
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .468746334, y: .877410054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 523
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .529001474, y: .857519984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 521
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .558005393, y: .82833457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 66
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .542651057, y: .795071244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 66
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .52384305, y: .805916011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 65
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .556868315, y: .805801094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 65
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .57328856, y: .842936516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 65
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .58794558, y: .842936516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 65
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .610485852, y: .889134586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 65
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .531217039, y: .912982881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 63
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .333311766, y: .900998235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 65
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .269819349, y: .903032184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-2 - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 106
+        width: 200
+        height: 265
+      alignment: 9
+      pivot: {x: .232990727, y: .854390502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
